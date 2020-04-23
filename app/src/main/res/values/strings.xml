@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">视频播放器</string>
+    <string name="app_name">VideoPlayer</string>
+</resources>
